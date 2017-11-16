@@ -453,7 +453,7 @@ a:hover, a:focus, a:active {
   text-transform: uppercase;
   background: url(../img/logo.png) no-repeat left 100%;
   top: 24px;
-  position: relative;
+  position: absolute;
   width: 160px;
   height: 43px;
   text-indent: -999999px;
