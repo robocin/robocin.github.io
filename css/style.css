@@ -1,4 +1,6 @@
-18422A/*!==============================
+/*!==============================
+18422A
+49D292
  * Theme Name: Enlight
  * Theme URL: https://probootstrap.com/enlight-free-education-responsive-bootstrap-website-template
  * Author: ProBootstrap.com
@@ -234,7 +236,7 @@ a:hover, a:focus, a:active {
   background: #ffffff;
   -webkit-transition: .3s all;
   transition: .3s all;
-}
+
 
 @media screen and (max-width: 768px) {
   .probootstrap-navbar {
