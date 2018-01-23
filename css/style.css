@@ -456,8 +456,8 @@ a:hover, a:focus, a:active {
   background: url(../img/logo.png) no-repeat left 100%;
   top: 24px;
   position: absolute;
-  width: 160px;
-  height: 43px;
+  width: 20%;
+  height: 5%;
   text-indent: -999999px;
   -webkit-transition: .2s all;
   transition: .2s all;
@@ -1356,7 +1356,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-teacher:focus, .probootstrap-teacher:hover {
   top: -10px;
- 
+
   -webkit-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
 }
