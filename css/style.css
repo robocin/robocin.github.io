@@ -181,19 +181,22 @@ a:hover {
 }
 
 #main-slider .carousel .carousel-content {
-  margin-top: 150px;
+  margin-top: 200px;
 }
 
 #main-slider .carousel .slide-margin{
-  margin-top: 140px;
+  margin-top: 190px;
 }
 
 #main-slider .carousel h2 {
   color: #fff;
-  text-transform:uppercase;
+  background: #18422a;
+  width: 71%;
+  /* text-transform:uppercase; */
   font-size:50px;
   font-weight:800;
-  text-shadow: black 0.1em 0.05em 0.4em
+  text-align: center;
+  /* text-shadow: black 0.1em 0.05em 0.2em */
 }
 
 #main-slider .carousel h2 span {
@@ -234,7 +237,7 @@ a:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 730px;
+  height: 500px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -357,14 +360,12 @@ a:hover {
   float: left;
   box-align: center;
   vertical-align: middle;
-  width: 20%;
-  
-  
+  width: 15%;
   margin-right: 5%;
 }
 
 .partners ul li a img {
-  height: 100% ;
+  height:100% ;
   max-width: auto;
   margin-top:50px;
 }
