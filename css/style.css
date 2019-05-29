@@ -36,7 +36,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
-	color:#eee;	
+	color:#eee;
 	}
 
 .btn-primary {
@@ -47,7 +47,7 @@ a:hover {
   border:none;
   margin-top: 10px;
 }
-	
+
 .text-center h2 {
 	margin-bottom:30px;
 }
@@ -72,7 +72,7 @@ a:hover {
 	margin-top: -20px;
 }
 
-.breadcrumb { 
+.breadcrumb {
 
   list-style: none;
   background-color: #18422a;
@@ -100,9 +100,9 @@ a:hover {
 .navbar-brand h1 {
 	margin-top:0px;
 	padding-top:0px;
-	float: left;	
-	font-size: 25px;	
-	color:#333;	
+	float: left;
+	font-size: 25px;
+	color:#333;
 	text-transform:uppercase;
 	font-weight:900;
 }
@@ -120,11 +120,11 @@ a:hover {
 	font-size:12px;
 	float:right;
 	text-transform:uppercase;
-	font-weight:700;	
+	font-weight:700;
 }
 
 .menu ul.nav-tabs li {
-	color:#000;	
+	color:#000;
 }
 
 .nav-tabs {
@@ -134,17 +134,17 @@ a:hover {
 	float: left;
 	margin-bottom: 0;
 }
-.nav-tabs > li > a {	
+.nav-tabs > li > a {
 	border-radius:0;
 	color:#333;
 	padding:30px;
 }
 
-.nav-tabs > li > a:hover {	
+.nav-tabs > li > a:hover {
 	color: #1BBD36;
 	border-color: #fff #fff #fff;
 	border-radius:0;
-	background-color:#fff; 
+	background-color:#fff;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -346,13 +346,14 @@ a:hover {
 #partner p {
   color: #000;
   font-size:20px;
-  
+
 }
 
 .partners ul {
   list-style: none;
   margin: 0;
   padding: 0;
+	float: center;
 }
 
 .partners ul li{
@@ -366,8 +367,14 @@ a:hover {
 
 .partners ul li a img {
   height:100% ;
-  max-width: auto;
+  max-width: 100%;
   margin-top:50px;
+}
+
+.resp_partners {
+	width: 150px;
+	float: left;
+	margin: 0 auto;
 }
 
 #conatcat-info{
@@ -445,7 +452,7 @@ a:hover {
   background: #db3615;
 }
 
-.progress, 
+.progress,
 .progress-bar {
   height: 15px;
   line-height: 15px;
@@ -516,7 +523,7 @@ a:hover {
   margin-bottom:30px;
   color: #18422a;
   font-size: 30pt;
-  
+
 }
 
 .about img {
@@ -568,7 +575,7 @@ a:hover {
 
 ul.social-network {
 	list-style:none;
-	margin-top:20px;	
+	margin-top:20px;
 	padding:10px;
 	transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -578,12 +585,12 @@ ul.social-network {
 
 ul.social-network li {
 	display:inline;
-	margin: 0 18px;	
-	font-size:25px;	
+	margin: 0 18px;
+	font-size:25px;
 }
 
-ul.social-network li a {	
-	color:#fff;	
+ul.social-network li a {
+	color:#fff;
 }
 .social-network li:hover .fa-twitter {
   color: #00abf0;
@@ -595,19 +602,19 @@ ul.social-network li a {
   color: #eb8984;
 }
 .social-network li:hover .fa-pinterest {
-  color: #c9171e; 
+  color: #c9171e;
 }
 .social-network li:hover .fa-linkedin {
-  color: #0077b5; 
+  color: #0077b5;
 }
 .social-network li:hover .fa-youtube-play {
-  color: #C84941; 
+  color: #C84941;
 }
 .social-network li:hover .fa-dribbble {
-  color: #EA4C89 ; 
+  color: #EA4C89 ;
 }
 .social-network li:hover .fa-pinterest-square {
-  color: #EA4B49; 
+  color: #EA4B49;
 }
 
 .copyright {
@@ -696,7 +703,7 @@ ul.social-network li a {
   width: 100%;
 }
 
-.portfolio-items, 
+.portfolio-items,
 .portfolio-filter {
   list-style: none outside none;
   margin: 0 0 40px 0;
@@ -1097,7 +1104,7 @@ ul.pagination > li > a i{
   margin-right:5px;
 }
 
-ul.pagination > li.active > a, 
+ul.pagination > li.active > a,
 ul.pagination > li:hover > a {
   background-color: #18422a !important;
   border-color: #18422a !important;
@@ -1119,7 +1126,7 @@ ul.pagination > li:hover > a {
   outline: 0 none;
 }
 
-ul.tag-cloud, 
+ul.tag-cloud,
 ul.sidebar-gallery {
   list-style: none;
   padding: 0;
@@ -1141,7 +1148,7 @@ ul.sidebar-gallery {
 
 .tag-cloud li a:hover{
   background:#18422a;
-  color: #fff;  
+  color: #fff;
 }
 
 .sidebar-gallery li{
@@ -1161,7 +1168,7 @@ ul.sidebar-gallery {
   margin-bottom:50px;
 }
 
-#contact-page .contact-form 
+#contact-page .contact-form
 .form-group label {
   color: #4E4E4E;
   font-size: 14px;
@@ -1192,6 +1199,11 @@ textarea#message{
 .center p{
    text-align:center;
 }
+.center div{
+	display:flex;
+	justify-content: center;
+
+}
 
 .btn-lg:hover {
 	color:#18422a;
@@ -1208,7 +1220,7 @@ a.scrollup{
 	text-decoration:none;
 	position:fixed;
 	bottom:30px;
-	right:40px;	
+	right:40px;
 	opacity:0,5;
 	border-radius:50%;
 	z-index:999;
