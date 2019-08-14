@@ -35,7 +35,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand d-flex flex-fill">
-								<a href="index.html"><img src="images/partners/logo@2x.png" alt="RobôCIn" ></a>
+								<a href="index.html"><img src="images/partners/robocin-logo.png" alt="RobôCIn" ></a>
 						</div>
 					</div>
 
@@ -58,9 +58,18 @@
 	</header>
 
 	<section id="main-slider" class="no-margin">
-        <div class="carousel slide">
-            <div class="carousel-inner">
-                <div class="item active" style="background-image: url(images/slider/equipe_2018.jpg);background-position: top;">
+        <div class="carousel slide" id="myCarousel"  data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+			</ol>
+
+
+			<div class="carousel-inner">
+					<a href="https://www.google.com">
+				<div class="item active" style="background-image: url(images/slider/banner_site_v6.png);background-position: top;"></div>
+			</a>
+                <div class="item" style="background-image: url(images/slider/equipe_2018.jpg);background-position: top;">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -72,8 +81,11 @@
 
                         </div>
                     </div>
-                </div><!--/.item-->
-            </div><!--/.carousel-inner-->
+				</div><!--/.item-->
+				
+			</div><!--/.carousel-inner-->
+			  <!-- Left and right controls -->
+  		
         </div><!--/.carousel-->
 	</section><!--/#main-slider-->
 <!--
