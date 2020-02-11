@@ -26,13 +26,14 @@ function translate (jsdata)
 	    $(this).html (strTr);
 	});
 }
+$(document).ready(function(){
+	let cookieLang = localStorage.getItem('lang')
+	langCode = cookieLang
 
-let cookieLang = localStorage.getItem('lang')
-langCode = cookieLang
-
-if (langCode === ''){
-	langCode = navigator.language.substr (0, 2);
-}else if(langs.includes(langCode)){
-	$.getJSON('lang/'+langCode+'.json', translate);
-}else
-	$.getJSON('lang/en.json', translate);
+	if (langCode === ''){
+		langCode = navigator.language.substr (0, 2);
+	}else if(langs.includes(langCode)){
+		$.getJSON('lang/'+langCode+'.json', translate);
+	}else
+		$.getJSON('lang/en.json', translate);
+})
