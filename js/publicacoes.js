@@ -27,9 +27,10 @@ readTextFile("https://robocin.com.br/json/papers.json", function(text)
             tdp_title = document.createElement('div');
             $(tdp_title).addClass("p-3")
             tdp_text = document.createElement('h5');
-            $(tdp_text).attr(tdp_list[i].name);
+            $(tdp_text).text(tdp_list[i].name);
 
-            if (tdp_list[i].name < first_year) {
+
+            if (tdp_list[i].name.substr(0, 4) < first_year) {
                 if (append_list != null) {
                     $(append_list).appendTo(div_year);
                     $(div_year).appendTo('#tdp-list');
