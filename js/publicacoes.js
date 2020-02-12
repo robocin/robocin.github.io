@@ -1,29 +1,35 @@
-$(document).ready(function(){
-    var folder = "/archives/";
-    var fileExt = ".pdf";
-    var fileExtUpper = ".PDF";
-    var first_year = 3020;
-    var append_list = null;
+function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText);
+        }
+    }
+    rawFile.send(null);
+}
 
-    $.get(folder, function(data) 
-    {
+readTextFile("https://robocin.com.br/json/papers.json", function(text)
+{
+    $(document).ready(function(){
+        var first_year = 3020;
+        var append_list = null;
+        var i = 0;
 
-        tdp_list = $(data).find("a:contains(" + fileExt + "), a:contains(" + fileExtUpper + ")");
-        tdp_list = Object.assign([], tdp_list).reverse();
-        tdp_list.forEach(function (elem) {
+        tdp_list = JSON.parse(text);
+        for(i = 0; i < tdp_list.length; i++){
 
             tdp_info = document.createElement('li');
-
-            var name = elem.text.split('.')[0].split('_');
             tdp_link = document.createElement('a');
-            $(tdp_link).attr("href", folder + elem.text);
+            $(tdp_link).attr("href", tdp_list[i].path);
             $(tdp_link).attr("target", "blank");
             tdp_title = document.createElement('div');
             $(tdp_title).addClass("p-3")
             tdp_text = document.createElement('h5');
-            $(tdp_text).text(name[1] + " " + name[2] + " " + name[3]);
+            $(tdp_text).attr(tdp_list[i].name);
 
-            if (name[0] < first_year) {
+            if (tdp_list[i].name < first_year) {
                 if (append_list != null) {
                     $(append_list).appendTo(div_year);
                     $(div_year).appendTo('#tdp-list');
@@ -31,20 +37,20 @@ $(document).ready(function(){
                 div_year = document.createElement('div');
                 $(div_year).addClass('col-12');
                 year_title = document.createElement('h3');
-                $(year_title).text(name[0]);
+                $(year_title).text(tdp_list[i].name.substr(0, 4));
                 $(year_title).appendTo(div_year);
                 append_list = document.createElement('ul');
                 $(append_list).attr("style", "list-style-type:none;");
-                first_year = name[0];
+                first_year = tdp_list[i].name.substr(0, 4);
             }
-
 
             $(tdp_text).appendTo(tdp_title);
             $(tdp_title).appendTo(tdp_link);
             $(tdp_link).appendTo(tdp_info);
             $(tdp_info).appendTo(append_list);
-        });
-        $(append_list).appendTo(div_year);
-        $(div_year).appendTo('#tdp-list');
+
+            $(append_list).appendTo(div_year);
+            $(div_year).appendTo('#tdp-list');
+        }
     });
 });
