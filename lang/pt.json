@@ -7,7 +7,7 @@
     "home" : "Início",
     "store" : "Loja",
     "categ" : "Categorias",
-    "lf" : "Seguidor de linha",
+    "lf" : "Seguidor de Linha",
     "ssl" : "SSL",
     "vsss" : "VSSS",
     "2D" : "Simulação 2D", 
@@ -35,7 +35,7 @@
     "s.button": "Saiba mais",
     "pat":"Nossos patrocinadores",
 
-    "cat.ln":"Seguidor de linha",
+    "cat.ln":"Seguidor de Linha",
     "s.img1":"Protótipo do seguidor de linha",
     "s.img2":"Base do seguidor de linha",
     "s.desc":"Seguidor de linha é uma categoria que tem o objetivo de desenvolver robôs autônomos que percorrem um percurso no menor tempo possível. O robô possui sensor de reflectância para poder identificar o trajeto delimitado por uma fita. Os principais desafios da categoria são a produção de robô leve e rápido e o desenvolvimento um controle eficiente e preciso.",
@@ -67,7 +67,7 @@
     "cat.vss.results5": "5° - LARC 2017",
     "cat.vss.results6": "16° - LARC 2016",
 
-    "cat.ssl" : "Small size league",
+    "cat.ssl" : "Small Size League",
     "cat.ssl.img1" : "Imagem capturada na RoboCup 2019.",
     "cat.ssl.img2" : "Base do robô 2019.",
     "cat.ssl.desc" : "Small Size League (SSL) é uma competição que requer o desenvolvimento de várias áreas. Nós desenvolvemos o modelo mecânico, os sistemas eletrônicos e de comunicação e a inteligência artifical dos robôs. Um jogo de SSL ocorre entre duas equipes de seis robôs cada. Os robôs tem dimensões limitadas, o robô deve caber dentro de um círculo de 180 mm de diâmetro e não deve ter mais de 15 cm. Todos os objetos no campo são identificados e normalizados pelos sistema de visão que processa os dados proveniente pelas 4 cameras.",

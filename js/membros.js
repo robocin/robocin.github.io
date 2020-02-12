@@ -63,6 +63,7 @@ readTextFile("https://robocin.com.br/json/membros.json", function(text)
             $(member_name).addClass('p-3');
             $(member_name).append($("<h3>"+dados[i].nome+"</h3>"));
             $(member_name).append($("<span><span>").addClass("position").attr('tkey',dados[i].categoria));
+            console.log(dados[i].categoria)
 
 
             // $(member_info_list).appendTo(member_figure_info);

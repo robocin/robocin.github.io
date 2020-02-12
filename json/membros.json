@@ -1,27 +1,27 @@
 [
     {
         "nome": "Carlos Pena",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/CarlosPena_vsss.jpg"
     },
     {
         "nome": "Cecília Virgínia",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/CeciliaVirginia_ssl.jpg"
     },
     {
         "nome": "Charles Matheus",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/CharlesMatheus_ssl.jpg"
     },
     {
         "nome": "Elisson Rodrigo",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/ElissonRodrigo_vsss.jpg"
     },
     {
         "nome": "Felipe Bezerra",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/FelipeBezerra_ssl.jpg"
     },
     {
@@ -36,12 +36,12 @@
     },
     {
         "nome": "José Douglas",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/JoseDouglas_vsss.jpg"
     },
     {
         "nome": "Lucas Dias",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/LucasDias_vsss.jpg"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "nome": "Luis Miranda",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/LuisMiranda_vsss.jpg"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "nome": "Mariana Barros",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/MarianaBarros_vsss.jpg"
     },
     {
@@ -81,12 +81,12 @@
     },
     {
         "nome": "Matheus Viana",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/MatheusViana_vsss.jpg"
     },
     {
         "nome": "Matheus Vinícius",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/MatheusVinicius_ssl.jpg"
     },
     {
@@ -96,27 +96,27 @@
     },
     {
         "nome": "Pedro Braga",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/PedroBraga_vsss.jpg"
     },
     {
         "nome": "Raphael Brito",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/RaphaelBrito_vsss.jpg"
     },
     {
         "nome": "Riei Joaquim",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/RieiJoaquim_ssl.jpg"
     },
     {
         "nome": "Roberto Fernandes",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/RobertoFernandes_ssl.jpg"
     },
     {
         "nome": "Ryan Morais",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/RyanMorais_ssl.jpg"
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "nome": "Thalisson Tavares",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/ThalissonTavares_vsss.jpg"
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "nome": "Tiago Barros",
-        "categoria": "vsss",
+        "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/TiagoBarros_vsss.jpg"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "nome": "Victor Sabino",
-        "categoria": "ssl",
+        "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/VictorSabino_ssl.jpg"
     },
     {
