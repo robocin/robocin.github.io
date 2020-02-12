@@ -20,6 +20,7 @@ readTextFile("https://robocin.com.br/json/papers.json", function(text)
         tdp_list = JSON.parse(text);
         for(i = 0; i < tdp_list.length; i++){
 
+            var name = tdp_list[i].name.split('.')[0].split('_');
             tdp_info = document.createElement('li');
             tdp_link = document.createElement('a');
             $(tdp_link).attr("href", tdp_list[i].path);
@@ -27,7 +28,7 @@ readTextFile("https://robocin.com.br/json/papers.json", function(text)
             tdp_title = document.createElement('div');
             $(tdp_title).addClass("p-3")
             tdp_text = document.createElement('h5');
-            $(tdp_text).text(tdp_list[i].name);
+            $(tdp_text).text(name[1] + " " + name[2] + " " + name[3]);
 
 
             if (tdp_list[i].name.substr(0, 4) < first_year) {
