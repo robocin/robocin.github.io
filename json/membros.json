@@ -7,6 +7,7 @@
     {
         "nome": "Cecília Virgínia",
         "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/ceciliavirginia/",
         "caminho": "https://robocin.com.br/images/membros/CeciliaVirginia_ssl.jpg"
     },
     {
@@ -38,6 +39,16 @@
         "nome": "José Douglas",
         "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/JoseDouglas_vsss.jpg"
+    },
+    {
+        "nome": "Lucas Henrique",
+        "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/lhcavalcanti/",
+        "github": "https://github.com/lhcavalcanti/",
+        "twitter": "https://twitter.com/lhcavalcanti/",
+        "facebook": "https://www.facebook.com/lhcavalcanti",
+        "linkedin": "https://www.linkedin.com/in/lhcavalcanti",
+        "caminho": "https://robocin.com.br/images/membros/lukita.jpg"
     },
     {
         "nome": "Lucas Dias",
@@ -107,16 +118,26 @@
     {
         "nome": "Riei Joaquim",
         "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/riei_joaquim/",
+        "github": "https://github.com/Riei-Joaquim/",
+        "facebook": "https://www.facebook.com/rieijoaquim",
         "caminho": "https://robocin.com.br/images/membros/RieiJoaquim_ssl.jpg"
     },
     {
         "nome": "Roberto Fernandes",
         "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/bebetocf/",
+        "github": "https://github.com/bebetocf/",
+        "twitter": "https://twitter.com/bebetocf/",
+        "facebook": "https://www.facebook.com/bebetocfernandes",
+        "linkedin": "https://www.linkedin.com/in/roberto-fernandes",
         "caminho": "https://robocin.com.br/images/membros/RobertoFernandes_ssl.jpg"
     },
     {
         "nome": "Ryan Morais",
         "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/ryan.morais2206/",
+        "github": "https://github.com/RyanMorais/",
         "caminho": "https://robocin.com.br/images/membros/RyanMorais_ssl.jpg"
     },
     {
@@ -137,6 +158,9 @@
     {
         "nome": "Thiago Araújo",
         "categoria": "2D",
+        "instagram": "https://www.instagram.com/_tsaraujo_/",
+        "github": "https://github.com/tsa3/",
+        "linkedin": "https://www.linkedin.com/in/thiago-da-silva-ara%C3%BAjo-81a086169/",
         "caminho": "https://robocin.com.br/images/membros/ThiagoAraujo_2D.jpg"
     },
     {
