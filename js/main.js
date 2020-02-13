@@ -78,12 +78,10 @@ window.addEventListener('load', function () {
 
 	$(window).resize(() => {
 		if($(window).width() < 1182){
-			console.log(logo)
 			logo.removeAttribute('class','logo')
 			logo.setAttribute('class','logoClass')
 	
 		}else{
-			console.log(used)
 			logo.removeAttribute('class','logoClass')
 			logo.setAttribute('class','logo')
 		}
