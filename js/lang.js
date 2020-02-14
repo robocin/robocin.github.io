@@ -3,21 +3,6 @@ var langs = ['en', 'pt'];
 var langCode = '';
 var langJS = null;
 
-var pt = document.getElementById('pt')
-var en = document.getElementById('en')
-
-pt.addEventListener("click", () => {
-	langCode = 'pt';
-	$.getJSON('lang/'+langCode+'.json',translate);
-	localStorage.setItem('lang','pt')
-})
-
-en.addEventListener("click", () => {
-	langCode = 'en'
-	$.getJSON('lang/'+langCode+'.json',translate);
-	localStorage.setItem('lang','en')
-})
-
 function translate (jsdata)
 {	
 	$("[tkey]").each (function (index)
@@ -27,6 +12,21 @@ function translate (jsdata)
 	});
 }
 $(document).ready(function(){
+
+	$("#pt").on("click touchstart", (e) => {
+		e.preventDefault();
+		langCode = 'pt';
+		$.getJSON('lang/'+langCode+'.json',translate);
+		localStorage.setItem('lang','pt')
+	});
+	
+	$("#en").on("click touchstart", (e) => {
+		e.preventDefault();
+		langCode = 'en'
+		$.getJSON('lang/'+langCode+'.json',translate);
+		localStorage.setItem('lang','en')
+	});
+
 	let cookieLang = localStorage.getItem('lang')
 	langCode = cookieLang
 
