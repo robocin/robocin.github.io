@@ -3,6 +3,18 @@ var langs = ['en', 'pt'];
 var langCode = '';
 var langJS = null;
 
+function setPT(){
+	langCode = "pt"
+	$.getJSON('lang/'+langCode+'.json',translate);
+	localStorage.setItem('lang','pt')
+}
+
+function setEN(){
+	langCode = "en"
+	$.getJSON('lang/'+langCode+'.json',translate);
+	localStorage.setItem('lang','en')
+}
+
 function translate (jsdata)
 {	
 	$("[tkey]").each (function (index)
@@ -11,10 +23,12 @@ function translate (jsdata)
 	    $(this).html (strTr);
 	});
 }
+
 $(document).ready(function(){
 
 	$("#pt").on("click touchstart", (e) => {
 		e.preventDefault();
+		
 		langCode = 'pt';
 		$.getJSON('lang/'+langCode+'.json',translate);
 		localStorage.setItem('lang','pt')
