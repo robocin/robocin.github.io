@@ -47,10 +47,6 @@ body:after {
   -o-transition: .3s all ease-in-out;
   transition: .3s all ease-in-out; }
 
-#image_background{
-  background-size: cover;
-}
-
 .offcanvas-menu {
   position: relative; }
   .offcanvas-menu:after {
@@ -749,6 +745,7 @@ footer ul li{
 
 /* Blocks */
 .site-blocks-cover {
+  background-attachment: scroll !important;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
