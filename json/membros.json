@@ -18,6 +18,11 @@
     {
         "nome": "Elisson Rodrigo",
         "categoria": "cat.vss",
+        "instagram": "https://www.instagram.com/elissonrsa/",
+        "github": "https://github.com/elissonrsa/",
+        "twitter": "https://twitter.com/elissonrsaraujo/",
+        "facebook": "https://www.facebook.com/elissonrsa",
+        "linkedin": "https://www.linkedin.com/in/elissonrsa",
         "caminho": "https://robocin.com.br/images/membros/ElissonRodrigo_vsss.jpg"
     },
     {
@@ -35,6 +40,16 @@
         "categoria": "2D",
         "caminho": "https://robocin.com.br/images/membros/FelipeNunes_2D.jpg"
     },
+    {
+    	"nome": "Hansenclever Bassani", 
+    	"categoria": "cat.Professor/Pesquisador",
+    	"caminho": "https://robocin.com.br/images/membros/Hans_teacher.jpg"
+    },
+    {
+        "nome": "Jose Victor",
+        "categoria": "cat.ssl",
+        "caminho": "https://robocin.com.br/images/membros/JoseVictor_ssl.jpg"
+    }
     {
         "nome": "José Douglas",
         "categoria": "cat.vss",
@@ -114,6 +129,11 @@
         "caminho": "https://robocin.com.br/images/membros/PedroBraga_vsss.jpg"
     },
     {
+        "nome": "Pedro Nogueira",
+        "categoria": "cat.vss",
+        "caminho": "https://robocin.com.br/images/membros/PedroNogueira_vsss.jpg"
+    },
+    {
         "nome": "Raphael Brito",
         "categoria": "cat.vss",
         "caminho": "https://robocin.com.br/images/membros/RaphaelBrito_vsss.jpg"
@@ -188,5 +208,12 @@
         "nome": "Walber Macedo",
         "categoria": "2D",
         "caminho": "https://robocin.com.br/images/membros/WalberMacedo_2D.jpg"
+    },
+    {
+        "nome": "Washington Igor",
+        "categoria": "cat.ssl",
+        "instagram": "https://www.instagram.com/washh_hh/",
+        "github": "https://github.com/washhh/",
+        "caminho":"https://robocin.com.br/images/membros/Washington Igor.jpg"
     }
 ]

@@ -23,7 +23,7 @@
     "d.desc" : "Nós projetamos e desenvolvemos a eletrônica, a mecânica e a inteligência dos robôs.",
     "about" : "Sobre nós",
     "abt.desc" : "Somos um grupo de pesquisa em robótica do Centro de Informática - UFPE" ,
-    "a.desc": "RobôCIn é um grupo de pesquisa e desenvolviemnto do Centro de Informática da UFPE, que utiliza a robótica para desenvolver soluções. O grupo foi criado em 2015 por 12 estudantes de Engenharia da Computação com ajuda de dois professores. Edna Barros e Hansenclever Bassani. Hoje contamos com 47 estudantes de graduação e pós-graduação e 4 professores estão orientado o time para desenvolver soluções utilizando Inteligência Artificial, Visão Computacional, Mecânica e Eletrônica aplicados na robótica. ",
+    "a.desc": "RobôCIn é um grupo de pesquisa e desenvolvimento do Centro de Informática da UFPE, que utiliza a robótica para desenvolver soluções. O grupo foi criado em 2015 por 12 estudantes de Engenharia da Computação com ajuda de dois professores. Edna Barros e Hansenclever Bassani. Hoje contamos com 47 estudantes de graduação e pós-graduação e 4 professores estão orientado o time para desenvolver soluções utilizando Inteligência Artificial, Visão Computacional, Mecânica e Eletrônica aplicados na robótica. ",
     "inf": "Informações",
 
     "s": "Seletiva",
@@ -110,6 +110,8 @@
     "faq.q8":"Como funciona a 3° fase?",
     "faq.a8":"Na 3° fase o candidato escolhe uma área e desenvolve um projeto nela, sendo apresentado no final.",
 
-    "talk": "Fale com a gente!"
+    "talk": "Fale com a gente!",
+
+    "cat.Professor/Pesquisador": "Professor(a) / Pesquisador"
 }
 
