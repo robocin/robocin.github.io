@@ -46,6 +46,11 @@
     	"caminho": "https://robocin.com.br/images/membros/Hans_teacher.jpg"
     },
     {
+        "nome": "Heitor Rapela",
+        "categoria": "cat.vss",
+        "caminho":"https://robocin.com.br/images/membros/HeitorRapela_vsss.jpg"
+    },
+    {
         "nome": "Jose Victor",
         "categoria": "cat.ssl",
         "caminho": "https://robocin.com.br/images/membros/JoseVictor_ssl.jpg"
@@ -214,6 +219,6 @@
         "categoria": "cat.ssl",
         "instagram": "https://www.instagram.com/washh_hh/",
         "github": "https://github.com/washhh/",
-        "caminho":"https://robocin.com.br/images/membros/Washington Igor.jpg"
+        "caminho":"https://robocin.com.br/images/membros/Washigton_ssl.jpg"
     }
 ]
