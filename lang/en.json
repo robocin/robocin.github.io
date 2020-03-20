@@ -84,7 +84,7 @@
 
     "p.title": "Papers",
 
-    "join_open": "In this moment, the selective for this year is not open yet. Wait a moment, we will warn when she open.",
+    "join_open": "At the moment, the joining process is not open. Wait a moment, we'll tell you when it does :)",
     "projects": "Projects",
     "eletronics": "Eletronics",
     "p.eletronics.2019": "Circuits and Arduino",
@@ -96,7 +96,7 @@
     "p.es.2019" : "Line Follower",
     "pdf": "Read PDF",
 
-    "faq.q1":"How many spots available?",
+    "faq.q1":"How many spots are available?",
     "faq.a1":"We don't have a specific number of spots available, its depends the candidates performace and the team's needs.",
     "faq.q2":"What are the atuation areas?",
     "faq.a2":"We have administrative area, designer, comunication and development.",
