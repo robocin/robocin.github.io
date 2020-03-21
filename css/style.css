@@ -2361,3 +2361,11 @@ figure figcaption {
 	margin:0 0 -5px 0;
 	padding:0;
 }
+
+#email{
+  color: white;
+  font-weight: 600;
+  margin-top: -20px;
+  margin-bottom: 40px;
+
+}
