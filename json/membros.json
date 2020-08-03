@@ -93,10 +93,10 @@
     {
     	"nome": "Lucas Maggi",
     	"categoria": "cat.vss",
-    	"caminho": "https://robocin.com.br/images/membros/-LucasMaggi_vsss.jpg",
         "github": "https://github.com/lomcin/",
         "facebook": "https://www.facebook.com/lucasmaggi",
-        "linkedin": "https://www.linkedin.com/in/lucasmaggi"
+        "linkedin": "https://www.linkedin.com/in/lucasmaggi",
+        "caminho": "https://robocin.com.br/images/membros/LucasMaggi_vsss.jpg"
     },
     {
         "nome": "Luis Miranda",
