@@ -76,6 +76,7 @@
     "cat.ssl.img1" : "Captured photo in RoboCup 2019.", 
     "cat.ssl.img2" : "Robot base 2019.",
     "cat.ssl.desc" : "Small Size League (SSL) is a competition that requires development in several areas. We develop the mechanic model, eletronic and communication systems and artificial inteligence of the robots. A Small Size robot soccer game takes place between two teams of six robots each. The robot has limited dimensions, must fit within an 180 mm diameter circle and must be no higher than 15 cm. All objects on the field are tracked by a standardized vision system that processes the data provided by four cameras.",
+    "cat.ssl.results.champion": "Champions!",
     "cat.ssl.r": "Results",
     "cat.ssl.results0": "1st - LARC 2020",
     "cat.ssl.results1": "3th/4th - RoboCup 2019", 

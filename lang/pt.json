@@ -77,6 +77,7 @@
     "cat.ssl.img2" : "Base do robô 2019.",
     "cat.ssl.desc" : "Small Size League (SSL) é uma competição que requer o desenvolvimento de várias áreas. Nós desenvolvemos o modelo mecânico, os sistemas eletrônicos e de comunicação e a inteligência artifical dos robôs. Um jogo de SSL ocorre entre duas equipes de seis robôs cada. Os robôs tem dimensões limitadas, o robô deve caber dentro de um círculo de 180 mm de diâmetro e não deve ter mais de 15 cm. Todos os objetos no campo são identificados e normalizados pelos sistema de visão que processa os dados proveniente pelas 4 cameras.",
     "cat.ssl.r": "Resultados",
+    "cat.ssl.results.champion": "Campeões!",
     "cat.ssl.results0": "1° - LARC 2020",
     "cat.ssl.results1": "3°/4° - RoboCup 2019", 
     "cat.ssl.results2": "5° - LARC 2019",
