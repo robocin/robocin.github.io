@@ -2369,3 +2369,40 @@ figure figcaption {
   margin-bottom: 40px;
 
 }
+
+#landing-intro{
+  padding-top: 0.3em;
+  color: #71ab76;
+  font-weight: 400;
+}
+
+#landing-description{
+  font-weight: 300;
+  padding-bottom: 4.8em; 
+}
+
+.badge{
+  color: white;
+}
+
+#info-title{
+  padding-top: 1.2em;
+  padding-bottom: 0.6em;
+}
+
+#j-landing{
+  padding-top: 1.2em;
+  padding-bottom: 0em;
+}
+
+#project-row2{
+  padding-top: 1.2em;
+}
+
+#ssl-text{
+  color: black;
+} 
+
+#info {
+  padding-top: 1.2em;
+}
