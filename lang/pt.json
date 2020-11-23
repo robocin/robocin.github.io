@@ -48,6 +48,7 @@
     "cat.2d.desc": "Na Simulação 2D duas equipes de onze agentes autônomos jogam futebol em um estádio de futebol virtual bidimensional representado por um servidor central, chamado SoccerServer. Este servidor sabe tudo sobre o jogo, ou seja, a posição atual de todos os jogadores e a bola, a física e assim por diante. O jogo conta ainda com a comunicação entre o servidor e cada agente. Por um lado, cada jogador recebe uma entrada relativa e ruidosa de seus sensores virtuais (visuais, acústicos e físicos) e, por outro lado, pode executar alguns comandos básicos (como correr, girar ou chutar) para influenciar seu ambiente.",
     "cat.2d.r": "Results",
     "cat.2d.results" : "6° - IronCup 2020",
+    "cat.2d.results0": "3° - LARC 2020",
     "cat.2d.results1": "9° - RoboCup 2019",
     "cat.2d.results2": "2° - LARC 2019",
     "cat.2d.results3": "6° - IronCup 2018",
@@ -62,6 +63,7 @@
     "cat.vss.lead2" : "Abordagem com Deep Learning",
     "cat.vss.desc2" : "Nessa abordagem nós treinamos os agentes usando aprendizado por reforço, ou seja, damos uma recompensa para ações boas e ruins dos agentes, ele aprende a maximizar a recompensa e com isso as melhores ações para cada situação.",
     "cat.vss.r": "Resultados",
+    "cat.vss.results0": "4°/5° - LARC 2020",
     "cat.vss.results": "3°/5° - IronCup 2020",
     "cat.vss.results1": "4°/5° - LARC 2019",
     "cat.vss.results2": "3° - IronCup 2019",
@@ -75,6 +77,8 @@
     "cat.ssl.img2" : "Base do robô 2019.",
     "cat.ssl.desc" : "Small Size League (SSL) é uma competição que requer o desenvolvimento de várias áreas. Nós desenvolvemos o modelo mecânico, os sistemas eletrônicos e de comunicação e a inteligência artifical dos robôs. Um jogo de SSL ocorre entre duas equipes de seis robôs cada. Os robôs tem dimensões limitadas, o robô deve caber dentro de um círculo de 180 mm de diâmetro e não deve ter mais de 15 cm. Todos os objetos no campo são identificados e normalizados pelos sistema de visão que processa os dados proveniente pelas 4 cameras.",
     "cat.ssl.r": "Resultados",
+    "cat.ssl.results.champion": "Campeões!",
+    "cat.ssl.results0": "1° - LARC 2020",
     "cat.ssl.results1": "3°/4° - RoboCup 2019", 
     "cat.ssl.results2": "5° - LARC 2019",
     "cat.ssl.results3": "5° - LARC 2018",
@@ -84,7 +88,7 @@
 
     "p.title": "Publicações",
 
-    "join_open":"No momento, a seletiva para este ano ainda não foi aberta. Aguarde um pouco, avisaremos quando ela começar!",
+    "join_open":"A seletiva RobôCIn 2020 está aberta até o dia 30/11.",
     "projects": "Projetos",
     "eletronics": "Eletrônica",
     "p.eletronics.2019": "Circuitos e Arduino",
