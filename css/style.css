@@ -2408,6 +2408,6 @@ figure figcaption {
 }
 
 #dropdownMenuLink {
-  background-color: #71ab76;
-  border-color: #71ab76;
+  background-color: #71ab76 !important;
+  border-color: #71ab76 !important;
 }
