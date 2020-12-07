@@ -2406,3 +2406,8 @@ figure figcaption {
 #info {
   padding-top: 1.2em;
 }
+
+#dropdownMenuLink {
+  background-color: #71ab76;
+  border-color: #71ab76;
+}
