@@ -2,6 +2,8 @@
     "welcome" : "Bem Vindo ao RobôCIn",
     "robotics-team" : "Equipe de Robótica",
     "research-and-dev" : "Pesquisa e Desenvolvimento",
+    "results2021" : "Resultados RoboCin 2021",
+    "descResults" : "Robocup - 3º lugar - SSL | 1º Lugar  Technical placement of the challenging ball | 5º Lugar hardware challenger",
     "cin-ufpe" : "Centro de Informática - UFPE",
     "lang" : "Idioma",
     "home" : "Início",
@@ -33,7 +35,7 @@
     "r": "Pesquisa",
     "r.text": "Fazemos pesquisas nas nossas áreas de atuação para melhorar nossos robôs e publicamos com esses trabalhos em algumas conferências.",
     "s.button": "Saiba mais",
-    "pat":"Nossos patrocinadores",
+    "pat":"Nossos patrocinadores | Em breve",
 
     "cat.ln":"Seguidor de Linha",
     "s.img1":"Protótipo do seguidor de linha",
@@ -75,6 +77,7 @@
     "cat.vss.results5": "3° - IronCup 2018",
     "cat.vss.results6": "5° - LARC 2017",
     "cat.vss.results7": "16° - LARC 2016",
+    "cat.vss.results8": "1° - Iron Cup 2021",
 
     "cat.ssl" : "Small Size League",
     "cat.ssl.img1" : "Imagem capturada na RoboCup 2019.",
@@ -87,6 +90,7 @@
     "cat.ssl.results1": "3°/4° - RoboCup 2019", 
     "cat.ssl.results2": "5° - LARC 2019",
     "cat.ssl.results3": "5° - LARC 2018",
+    "cat.ssl.results4": "3° Lugar - Robocup 2021",
 
     "m.title": "Membros da equipe",
     "m.desc": "Nós somos 51 integrantes!",

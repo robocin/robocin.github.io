@@ -2,6 +2,8 @@
     "welcome" : "Welcome to RobôCIn",
     "robotics-team" : "Robotics Team",
     "research-and-dev" : "Research and Development",
+    "results2021" : "Results RoboCin 2021",
+    "descResults1" : "Robocup - 3rd place - SSL | 1st Place Technical placement of the challenging ball | 5th hardware challenger",
     "cin-ufpe" : "Centro de Informática - UFPE",
     "lang": "Language",
     "home": "Home",
@@ -33,7 +35,7 @@
     "r": "Research",
     "r.text": "We research in all robotics field to improve our robots and we submit this works to some conferences.",
     "s.button": "Learn more",
-    "pat":"Our partners",
+    "pat":"Our partners | Coming soon",
 
     "cat.ln": "Line Follower",
     "s.img1": "Line Follower prototype",
@@ -75,6 +77,7 @@
     "cat.vss.results5": "3th - IronCup 2018",
     "cat.vss.results6": "5th - LARC 2017",
     "cat.vss.results7": "16th - LARC 2016",
+    "cat.vss.results8": "1st - Iron Cup 2021",
 
     "cat.ssl" : "Small Size League",
     "cat.ssl.img1" : "Captured photo in RoboCup 2019.", 
@@ -87,6 +90,7 @@
     "cat.ssl.results1": "3th/4th - RoboCup 2019", 
     "cat.ssl.results2": "5th - LARC 2019",
     "cat.ssl.results3": "5th - LARC 2018",
+    "cat.ssl.results4": "3rd - Robocup 2021",
 
     "m.title": "Team member",
     "m.desc": "We are 51 members!",
