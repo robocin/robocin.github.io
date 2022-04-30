@@ -2411,3 +2411,7 @@ figure figcaption {
   background-color: #71ab76 !important;
   border-color: #71ab76 !important;
 }
+
+.winner-result {
+  display: flex !important;
+}
