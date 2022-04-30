@@ -35,7 +35,7 @@
     "r": "Research",
     "r.text": "We research in all robotics field to improve our robots and we submit this works to some conferences.",
     "s.button": "Learn more",
-    "pat":"Our partners | Coming soon",
+    "pat":"Our partners | Comming soon",
 
     "cat.ln": "Line Follower",
     "s.img1": "Line Follower prototype",
@@ -58,6 +58,8 @@
     "cat.2d.results5": "2th - LARC 2019",
     "cat.2d.results6": "6th - IronCup 2018",
     "cat.2d.results7": "4th - LARC 2018",
+
+    "cat.dvss": "Deep Learning VSS",
 
     "cat.vss" : "Very Small Size Soccer",
     "cat.vss.img1" : "Tags of robots used to identification.",
