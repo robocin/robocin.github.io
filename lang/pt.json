@@ -1,5 +1,16 @@
 {
-    "welcome" : "Bem Vindo ao RobôCIn",
+    "first-slide-title" : "Campeão Latino-americano em SSL!",
+    "first-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 3º lugar na RoboCup 2021",
+
+    "second-slide-title": "Campeão Latino-americano em Simulação 2D!",
+    "second-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica, 3º na Iron Cup e 7º na RoboCup",
+
+    "third-slide-title": "Campeão Latino-americano e Nacional em VSS!",
+    "third-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 1º lugar na Iron Cup Inatel",
+
+    "fourth-slide-title": "Melhor campanha de um time brasileiro em 2021",
+    "fourth-slide-desc": "Primeiro lugar em três campeonatos e primeiro lugar em um desafio técnico internacional",
+
     "robotics-team" : "Equipe de Robótica",
     "research-and-dev" : "Pesquisa e Desenvolvimento",
     "results2021" : "Resultados RoboCin 2021",
@@ -77,7 +88,7 @@
     "cat.vss.desc2" : "Nessa abordagem nós treinamos os agentes usando aprendizado por reforço, ou seja, damos uma recompensa para ações boas e ruins dos agentes, ele aprende a maximizar a recompensa e com isso as melhores ações para cada situação.",
     "cat.vss.r": "Resultados",
 
-    "cat.vss.larc21": "1° DET<br>2° RL",
+    "cat.vss.larc21": "1° 3v3 RL<br>2° 5V5 DET",
     "cat.vss.larc20": "4° DET <br> 5° RL",
     "cat.vss.larc19": "4° DET <br> 5° RL",
     "cat.vss.larc18": "3°",

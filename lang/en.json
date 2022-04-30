@@ -1,5 +1,16 @@
 {
-    "welcome" : "Welcome to RobôCIn",
+    "first-slide-title": "Smal Size League Latin American Champion!",
+    "first-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
+    
+    "second-slide-title": "Simulation 2D Latin American Champion!",
+    "second-slide-desc": "1st place on Latin American Robotics Championship 2021, 3rd at Iron Cup and 9th at Robotup 2021",
+
+    "third-slide-title": "Very Small Size Soccer Latin American and National Champion!",
+    "third-slide-desc": "1st place on Latin American Robotics Championship and 1st on Inatel Iron Cup",
+
+    "fourth-slide-title": "Best Brazilian Team Campaign of 2021",
+    "fourth-slide-desc": "Three championship wins, one international technical challenge win",
+
     "robotics-team" : "Robotics Team",
     "research-and-dev" : "Research and Development",
     "results2021" : "Results RoboCin 2021",
@@ -77,7 +88,7 @@
     "cat.vss.desc2" : "In this approach we train the agents using reinforcement learning, that is we give a reward to actions good and bad for the agent, he learn maximize the reward and with this the best actions for every situation.",
     "cat.vss.r": "Results",
 
-    "cat.vss.larc21": "1st DET<br>2nd RL",
+    "cat.vss.larc21": "1st 3v3 RL<br>2nd 5v5 DET",
     "cat.vss.larc20": "4th DET <br> 5th RL",
     "cat.vss.larc19": "4th DET <br> 5th RL",
     "cat.vss.larc18": "3th",
