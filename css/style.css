@@ -8,6 +8,96 @@ body {
   font-weight: 400;
   font-size: 1rem; }
 
+  .wrapper {
+    display: grid;
+    grid-gap: 10px;
+    background-color: transparent;
+    color: transparent;
+  }
+  .a img {
+    width: 25%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+  .b img {
+    width: 68%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+  .c img {
+    width: 42%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+  .d img {
+    width: 35%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+  .e img {
+    width: 30%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+  .f img {
+    width: 30%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .box {
+    background-color: transparent;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+
+  }
+
+  .a {
+    grid-column: 1 / 12;
+  }
+  .b {
+    grid-column: 1 / 6 ;
+    grid-row: 2
+  }
+  .c {
+    grid-column: 6 / 12 ;
+    grid-row: 2 ;
+  }
+  .d {
+    grid-column: 1 / 12 ;
+    grid-row: 3 ;
+  }
+
+  .e {
+    grid-column: 1 / 6;
+    grid-row: 4;
+  }
+  .f {
+    grid-column: 6 / 12;
+    grid-row: 4;
+  }
+  @media only screen and (max-width: 600px) {
+    .a {grid-column: 1 / 12; grid-row: 1;}
+    .b {grid-column: 1 / 12; grid-row: 2;}
+    .c {grid-column: 1 / 12; grid-row: 3;}
+    .d {grid-column: 1 / 12; grid-row: 4;}
+    .e {grid-column: 1 / 12; grid-row: 5;}
+    .f {grid-column: 1 / 12; grid-row: 6;}
+    .a img {width: 50%;height: auto;object-fit: cover;object-position: center;}
+    .b img {width: 68%;height: auto;object-fit: cover;object-position: center;}
+    .c img {width: 42%;height: auto;object-fit: cover;object-position: center;}
+    .d img {width: 60%;height: auto;object-fit: cover;object-position: center;}
+    .e img {width: 20%;height: auto;object-fit: cover;object-position: center;}
+    .f img {width: 20%;height: auto;object-fit: cover;object-position: center;}
+  } 
 ::-moz-selection {
   background: #000;
   color: #fff; }
