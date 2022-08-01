@@ -33,7 +33,7 @@ body {
     object-position: center;
   }
   .d img {
-    width: 35%;
+    width: 23%;
     height: auto;
     object-fit: cover;
     object-position: center;
@@ -94,7 +94,7 @@ body {
     .a img {width: 50%;height: auto;object-fit: cover;object-position: center;}
     .b img {width: 68%;height: auto;object-fit: cover;object-position: center;}
     .c img {width: 42%;height: auto;object-fit: cover;object-position: center;}
-    .d img {width: 60%;height: auto;object-fit: cover;object-position: center;}
+    .d img {width: 40%;height: auto;object-fit: cover;object-position: center;}
     .e img {width: 20%;height: auto;object-fit: cover;object-position: center;}
     .f img {width: 20%;height: auto;object-fit: cover;object-position: center;}
   } 
@@ -242,7 +242,7 @@ footer ul li{
 
 #cin-img{
   /* margin-left: 100px !important; */
-  margin: auto;
+  margin: 0.1rem;
 }
 
 #hsbs-img{

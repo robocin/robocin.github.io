@@ -1,0 +1,12 @@
+.s {
+    width: 80rem;
+}
+@media only screen and (max-width: 1500px) {
+    .s {width: 50rem;}
+}
+@media only screen and (max-width: 1000px) {
+    .s {width: 30rem;}
+}
+@media only screen and (max-width: 500px) {
+    .s {width: 15rem;}
+}
