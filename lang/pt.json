@@ -1,15 +1,21 @@
 {
-    "first-slide-title" : "Campeão Latino-americano em SSL!",
-    "first-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 3º lugar na RoboCup 2021",
 
-    "second-slide-title": "Campeão Latino-americano em Simulação 2D!",
-    "second-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica, 3º na Iron Cup e 7º na RoboCup",
+    "first-slide-title": "Campeão Mundial em SSL",
+    "first-slide-desc": "1º Lugar na RoboCup 2022 - Divisão B",
 
-    "third-slide-title": "Campeão Latino-americano e Nacional em VSS!",
-    "third-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 1º lugar na Iron Cup Inatel",
+    "second-slide-title" : "Campeão Latino-americano em SSL!",
+    "second-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 3º lugar na RoboCup 2021",
 
-    "fourth-slide-title": "Melhor campanha de um time brasileiro em 2021",
-    "fourth-slide-desc": "Primeiro lugar em três campeonatos e primeiro lugar em um desafio técnico internacional",
+    "third-slide-title": "Campeão Latino-americano em Simulação 2D!",
+    "third-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica, 3º na Iron Cup e 7º na RoboCup",
+
+    "fourth-slide-title": "Campeão Latino-americano e Nacional em VSS!",
+    "fourth-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 1º lugar na Iron Cup Inatel",
+
+    "fifth-slide-title": "Melhor campanha de um time brasileiro em 2021",
+    "fifth-slide-desc": "Primeiro lugar em três campeonatos e primeiro lugar em um desafio técnico internacional",
+
+
 
     "robotics-team" : "Equipe de Robótica",
     "research-and-dev" : "Pesquisa e Desenvolvimento",
@@ -61,6 +67,7 @@
     "cat.2d.desc": "Na Simulação 2D duas equipes de onze agentes autônomos jogam futebol em um estádio de futebol virtual bidimensional representado por um servidor central, chamado SoccerServer. Este servidor sabe tudo sobre o jogo, ou seja, a posição atual de todos os jogadores e a bola, a física e assim por diante. O jogo conta ainda com a comunicação entre o servidor e cada agente. Por um lado, cada jogador recebe uma entrada relativa e ruidosa de seus sensores virtuais (visuais, acústicos e físicos) e, por outro lado, pode executar alguns comandos básicos (como correr, girar ou chutar) para influenciar seu ambiente.",
     "cat.2d.r": "Results",
     
+    "cat.2d.robocup22": "10°",
     "cat.2d.robocup21" : "7°",
     "cat.2d.robocup20": "Adiado",
     "cat.2d.robocup19": "9°",
@@ -107,6 +114,7 @@
     "cat.ssl.r": "Resultados",
     "cat.ssl.results.champion": "Campeões!",
     
+    "cat.ssl.robocup22": "1° Div B<br>1° Ball placement technical challenge<br>2° Vision Blackout<br>3° Dribbling challenge",
     "cat.ssl.robocup21": "3° Div A/B<br>1° Desafio técnico<br> 5° Desafio de Hardware",
     "cat.ssl.robocup20": "Adiado",
     "cat.ssl.robocup19": "3°/4° Div B", 

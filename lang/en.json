@@ -1,15 +1,18 @@
 {
-    "first-slide-title": "Smal Size League Latin American Champion!",
-    "first-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
+    "first-slide-title": "Small Size League World Champion",
+    "first-slide-desc": "1st place on RoboCup 2022 - Division B",
+
+    "second-slide-title": "Smal Size League Latin American Champion!",
+    "second-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
     
-    "second-slide-title": "Simulation 2D Latin American Champion!",
-    "second-slide-desc": "1st place on Latin American Robotics Championship 2021, 3rd at Iron Cup and 9th at Robotup 2021",
+    "third-slide-title": "Simulation 2D Latin American Champion!",
+    "third-slide-desc": "1st place on Latin American Robotics Championship 2021, 3rd at Iron Cup and 9th at Robotup 2021",
 
-    "third-slide-title": "Very Small Size Soccer Latin American and National Champion!",
-    "third-slide-desc": "1st place on Latin American Robotics Championship and 1st on Inatel Iron Cup",
+    "fourth-slide-title": "Very Small Size Soccer Latin American and National Champion!",
+    "fourth-slide-desc": "1st place on Latin American Robotics Championship and 1st on Inatel Iron Cup",
 
-    "fourth-slide-title": "Best Brazilian Team Campaign of 2021",
-    "fourth-slide-desc": "Three championship wins, one international technical challenge win",
+    "fifth-slide-title": "Best Brazilian Team Campaign of 2021",
+    "fifth-slide-desc": "Three championship wins, one international technical challenge win",
 
     "robotics-team" : "Robotics Team",
     "research-and-dev" : "Research and Development",
@@ -61,6 +64,7 @@
     "cat.2d.desc": "In the 2D Simulation League, two teams of eleven autonomous software programs (called agents) each play soccer in a two-dimensional virtual soccer stadium represented by a central server, called SoccerServer. This server knows everything about the game, i.e. the current position of all players and the ball, the physics and so on. The game further relies on the communication between the server and each agent. On the one hand each player receives relative and noisy input of his virtual sensors (visual, acoustic and physical) and may on the other hand perform some basic commands (like dashing, turning or kicking) in order to influence its environment.",
     "cat.2d.r": "Results",
     
+    "cat.2d.robocup22": "10th",
     "cat.2d.robocup21": "7th",
     "cat.2d.robocup20": "Postponed",
     "cat.2d.robocup19": "9th",
@@ -107,6 +111,7 @@
     "cat.ssl.results.champion": "Champions!",
     "cat.ssl.r": "Results",
 
+    "cat.ssl.robocup22": "1st Div B<br>1st Ball placement technical challenge<br>2nd Vision Blackout<br>3rd Dribbling challenge",
     "cat.ssl.robocup21": "3rd Div A/B<br>1st Ball placement technical challenge<br>5th Hardware challenge",
     "cat.ssl.robocup20": "Postponed",
     "cat.ssl.robocup19": "3rd/4th Div B", 
