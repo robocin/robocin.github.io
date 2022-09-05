@@ -2,7 +2,7 @@
     "first-slide-title": "Small Size League World Champion",
     "first-slide-desc": "1st place on RoboCup 2022 - Division B",
 
-    "second-slide-title": "Smal Size League Latin American Champion!",
+    "second-slide-title": "Small Size League Latin American Champion!",
     "second-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
     
     "third-slide-title": "Simulation 2D Latin American Champion!",
@@ -111,8 +111,8 @@
     "cat.ssl.results.champion": "Champions!",
     "cat.ssl.r": "Results",
 
-    "cat.ssl.robocup22": "1st Div B<br>1st Ball placement technical challenge<br>2nd Vision Blackout<br>3rd Dribbling challenge",
-    "cat.ssl.robocup21": "3rd Div A/B<br>1st Ball placement technical challenge<br>5th Hardware challenge",
+    "cat.ssl.robocup22": "1st Div B<br>1st Ball Placement Technical Challenge<br>2nd Vision Blackout<br>3rd Dribbling Challenge",
+    "cat.ssl.robocup21": "3rd Div A/B<br>1st Ball Placement Technical Challenge<br>5th Hardware Challenge",
     "cat.ssl.robocup20": "Postponed",
     "cat.ssl.robocup19": "3rd/4th Div B", 
     "cat.ssl.robocup18": "N/A",
