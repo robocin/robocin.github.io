@@ -24,6 +24,7 @@
     "store" : "Store",
     "categ" : "Categories",
     "lf" : "Line Follower",
+    "drone" : "Drone",
     "ssl" : "SSL",
     "vsss" : "VSSS",
     "2D" : "2D Simulation", 
@@ -57,6 +58,12 @@
     "s.desc": "Line Follower is a category that has a goal to develop autonomous robots that can finish a cricuit fast as possible. The robot has a reflectance sensor for be able to identify the route defined by a tape. The main challenges in this category are to produce a light and fast robot and develop a efficient and precise control.",
     "cat.ln.r": "Results",
     "cat.ln.results": "19th",
+
+    "cat.drone": "Drone",
+    "cat.drone.img1": "",
+    "cat.drone.img2": "",
+    "cat.drone.desc": "",
+    "cat.drone.r": "",
     
     "cat.2d" : "2D Simulation",
     "cat.2d.img1": "Strategy Development",

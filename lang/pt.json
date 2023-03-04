@@ -27,6 +27,7 @@
     "store" : "Loja",
     "categ" : "Categorias",
     "lf" : "Seguidor de Linha",
+    "drone" : "Drone",
     "ssl" : "SSL",
     "vsss" : "VSSS",
     "2D" : "Simulação 2D", 
@@ -60,6 +61,12 @@
     "s.desc":"Seguidor de linha é uma categoria que tem o objetivo de desenvolver robôs autônomos que percorrem um percurso no menor tempo possível. O robô possui sensor de reflectância para poder identificar o trajeto delimitado por uma fita. Os principais desafios da categoria são a produção de robô leve e rápido e o desenvolvimento um controle eficiente e preciso.",
     "cat.ln.r": "Resultados",
     "cat.ln.results": "19°",
+
+    "cat.drone": "Drone",
+    "cat.drone.img1": "",
+    "cat.drone.img2": "",
+    "cat.drone.desc": "",
+    "cat.drone.r": "",
     
     "cat.2d" : "Simulação 2D",
     "cat.2d.img1": "Desenvolvimento da estratégia",
