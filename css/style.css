@@ -2464,6 +2464,9 @@ figure figcaption {
   padding-top: 0.3em;
   color: #71ab76;
   font-weight: 400;
+  font-size: 3.6rem;
+  word-wrap: break-word;
+  padding-right: -  0.1rem;
 }
 
 #landing-description{
