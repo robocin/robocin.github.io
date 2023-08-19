@@ -67,12 +67,15 @@
     "cat.2d.desc": "Na Simulação 2D duas equipes de onze agentes autônomos jogam futebol em um estádio de futebol virtual bidimensional representado por um servidor central, chamado SoccerServer. Este servidor sabe tudo sobre o jogo, ou seja, a posição atual de todos os jogadores e a bola, a física e assim por diante. O jogo conta ainda com a comunicação entre o servidor e cada agente. Por um lado, cada jogador recebe uma entrada relativa e ruidosa de seus sensores virtuais (visuais, acústicos e físicos) e, por outro lado, pode executar alguns comandos básicos (como correr, girar ou chutar) para influenciar seu ambiente.",
     "cat.2d.r": "Results",
     
+    "cat.2d.robocup23": "6°",
     "cat.2d.robocup22": "10°",
     "cat.2d.robocup21" : "7°",
     "cat.2d.robocup20": "Adiado",
     "cat.2d.robocup19": "9°",
     "cat.2d.robocup18": "N/A",
 
+    "cat.2d.larc23" : "N/A",
+    "cat.2d.larc22" : "1°",
     "cat.2d.larc21" : "1°",
     "cat.2d.larc20": "3°",
     "cat.2d.larc19": "2°",
@@ -95,6 +98,8 @@
     "cat.vss.desc2" : "Nessa abordagem nós treinamos os agentes usando aprendizado por reforço, ou seja, damos uma recompensa para ações boas e ruins dos agentes, ele aprende a maximizar a recompensa e com isso as melhores ações para cada situação.",
     "cat.vss.r": "Resultados",
 
+    "cat.vss.larc23": "N/A",
+    "cat.vss.larc22": "1°",
     "cat.vss.larc21": "1° 3v3 RL<br>2° 5V5 DET",
     "cat.vss.larc20": "4° DET <br> 5° RL",
     "cat.vss.larc19": "4° DET <br> 5° RL",
@@ -102,10 +107,14 @@
     "cat.vss.larc17": "5°",
     "cat.vss.larc16": "16°",
     
+    "cat.vss.iron23": "2°",
+    "cat.vss.iron22": "3°",
     "cat.vss.iron21": "1°",
     "cat.vss.iron20": "3° RL <br> 5° DET",
     "cat.vss.iron19": "3°",
     "cat.vss.iron18": "3°",
+    "cat.vss.iron17": "N/A",
+    "cat.vss.iron16": "N/A",
 
     "cat.ssl" : "Small Size League",
     "cat.ssl.img1" : "Imagem capturada na RoboCup 2019.",
@@ -114,12 +123,15 @@
     "cat.ssl.r": "Resultados",
     "cat.ssl.results.champion": "Campeões!",
     
+    "cat.ssl.robocup23": "1°",
     "cat.ssl.robocup22": "1° Div B<br>1° Desafio Técnico Ball Placement <br>2° Vision Blackout<br>3° Desafio de Dribbling ",
     "cat.ssl.robocup21": "3° Div A/B<br>1° Desafio técnico<br> 5° Desafio de Hardware",
     "cat.ssl.robocup20": "Adiado",
     "cat.ssl.robocup19": "3°/4° Div B", 
     "cat.ssl.robocup18": "N/A",
 
+    "cat.ssl.larc23": "N/A°",
+    "cat.ssl.larc22": "1°",
     "cat.ssl.larc21": "1°",
     "cat.ssl.larc20": "1°",
     "cat.ssl.larc19": "5°",
