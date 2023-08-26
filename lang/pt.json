@@ -175,6 +175,10 @@
 
     "talk": "Fale com a gente!",
 
-    "cat.Professor/Pesquisador": "Professor(a)"
+    "cat.Professor/Pesquisador": "Professor(a)",
+
+    "404.title": "Oops! Página não encontrada.",
+    "404.description": "A página que você procura não existe.",
+    "404.button_label": "Voltar ao início"
 }
 
