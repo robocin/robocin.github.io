@@ -3,16 +3,16 @@
     "first-slide-desc": "1st place on RoboCup 2023 - Division B",
 
     "second-slide-title": "Small Size League Latin American Champion!",
-    "second-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
+    "second-slide-desc": "1st place on Latin American Robotics Competition 2022 and 1st place on RoboCup 2023",
     
     "third-slide-title": "Simulation 2D Latin American Champion!",
-    "third-slide-desc": "1st place on Latin American Robotics Championship 2021, 3rd at Iron Cup and 9th at Robotup 2021",
+    "third-slide-desc": "1st place on Latin American Robotics Competition 2022, 2nd at IronCup 2023 and 6th at RoboCup 2023",
 
     "fourth-slide-title": "Very Small Size Soccer Latin American and National Champion!",
-    "fourth-slide-desc": "1st place on Latin American Robotics Championship and 1st on Inatel Iron Cup",
+    "fourth-slide-desc": "1st and 3th place on Latin American Robotics Competition 2022, 1st and 2nd at IronCup 2023",
 
-    "fifth-slide-title": "Best Brazilian Team Campaign of 2021",
-    "fifth-slide-desc": "Three championship wins, one international technical challenge win",
+    "fifth-slide-title": "Best Brazilian Team Campaign of 2022",
+    "fifth-slide-desc": "Five championships won, first Brazilian team to win the RoboCup in the Small Size League",
 
     "robotics-team" : "Robotics Team",
     "research-and-dev" : "Research and Development",
@@ -122,7 +122,7 @@
     "cat.ssl.results.champion": "Champions!",
     "cat.ssl.r": "Results",
 
-    "cat.ssl.robocup23": "1st",
+    "cat.ssl.robocup23": "1st Div B<br>1st Ball Placement Technical Challenge<br>5th Chip Pass Challenge",
     "cat.ssl.robocup22": "1st Div B<br>1st Ball Placement Technical Challenge<br>2nd Vision Blackout<br>3rd Dribbling Challenge",
     "cat.ssl.robocup21": "3rd Div A/B<br>1st Ball Placement Technical Challenge<br>5th Hardware Challenge",
     "cat.ssl.robocup20": "Postponed",

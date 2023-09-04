@@ -4,16 +4,16 @@
     "first-slide-desc": "1º Lugar na RoboCup 2023 - Divisão B",
 
     "second-slide-title" : "Campeão Latino-americano em SSL!",
-    "second-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 3º lugar na RoboCup 2021",
+    "second-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica em 2022 e 1º Lugar na RoboCup 2023",
 
     "third-slide-title": "Campeão Latino-americano em Simulação 2D!",
-    "third-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica, 3º na Iron Cup e 7º na RoboCup",
+    "third-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica em 2022, 2º na Iron Cup 2023 e 6º na RoboCup 2023",
 
     "fourth-slide-title": "Campeão Latino-americano e Nacional em VSS!",
-    "fourth-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica e 1º lugar na Iron Cup Inatel",
+    "fourth-slide-desc": "1º Lugar no Campeonato Latino Americano de Robótica em 2022, 1º e 2º Lugar na IronCup 2023",
 
-    "fifth-slide-title": "Melhor campanha de um time brasileiro em 2021",
-    "fifth-slide-desc": "Primeiro lugar em três campeonatos e primeiro lugar em um desafio técnico internacional",
+    "fifth-slide-title": "Melhor campanha de um time brasileiro em 2022",
+    "fifth-slide-desc": "1º Lugar em cinco campeonatos e primeiro time brasileiro a ganhar a RoboCup em SSL",
 
 
 
@@ -125,7 +125,7 @@
     "cat.ssl.r": "Resultados",
     "cat.ssl.results.champion": "Campeões!",
     
-    "cat.ssl.robocup23": "1°",
+    "cat.ssl.robocup23": "1° Div B<br>1° Desafio Técnico Ball Placement<br>5º Desafio Técnico Chip Pass",
     "cat.ssl.robocup22": "1° Div B<br>1° Desafio Técnico Ball Placement <br>2° Vision Blackout<br>3° Desafio de Dribbling ",
     "cat.ssl.robocup21": "3° Div A/B<br>1° Desafio técnico<br> 5° Desafio de Hardware",
     "cat.ssl.robocup20": "Adiado",
