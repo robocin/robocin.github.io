@@ -1,18 +1,18 @@
 {
     "first-slide-title": "Small Size League World Champion",
-    "first-slide-desc": "1st place on RoboCup 2022 - Division B",
+    "first-slide-desc": "1st place on RoboCup 2023 - Division B",
 
     "second-slide-title": "Small Size League Latin American Champion!",
-    "second-slide-desc": "1st place on Latin American Robotics Championship 2021 and 3rd place on RoboCup 2021",
+    "second-slide-desc": "1st place on Latin American Robotics Competition 2022 and 1st place on RoboCup 2023",
     
     "third-slide-title": "Simulation 2D Latin American Champion!",
-    "third-slide-desc": "1st place on Latin American Robotics Championship 2021, 3rd at Iron Cup and 9th at Robotup 2021",
+    "third-slide-desc": "1st place on Latin American Robotics Competition 2022, 2nd at IronCup 2023 and 6th at RoboCup 2023",
 
     "fourth-slide-title": "Very Small Size Soccer Latin American and National Champion!",
-    "fourth-slide-desc": "1st place on Latin American Robotics Championship and 1st on Inatel Iron Cup",
+    "fourth-slide-desc": "1st and 3th place on Latin American Robotics Competition 2022, 1st and 2nd at IronCup 2023",
 
-    "fifth-slide-title": "Best Brazilian Team Campaign of 2021",
-    "fifth-slide-desc": "Three championship wins, one international technical challenge win",
+    "fifth-slide-title": "Best Brazilian Team Campaign of 2022",
+    "fifth-slide-desc": "Five championships won, first Brazilian team to win the RoboCup in the Small Size League",
 
     "robotics-team" : "Robotics Team",
     "research-and-dev" : "Research and Development",
@@ -64,17 +64,22 @@
     "cat.2d.desc": "In the 2D Simulation League, two teams of eleven autonomous software programs (called agents) each play soccer in a two-dimensional virtual soccer stadium represented by a central server, called SoccerServer. This server knows everything about the game, i.e. the current position of all players and the ball, the physics and so on. The game further relies on the communication between the server and each agent. On the one hand each player receives relative and noisy input of his virtual sensors (visual, acoustic and physical) and may on the other hand perform some basic commands (like dashing, turning or kicking) in order to influence its environment.",
     "cat.2d.r": "Results",
     
+    "cat.2d.robocup23": "6th",
     "cat.2d.robocup22": "10th",
     "cat.2d.robocup21": "7th",
     "cat.2d.robocup20": "Postponed",
     "cat.2d.robocup19": "9th",
     "cat.2d.robocup18": "N/A",
     
+    "cat.2d.larc23" : "N/A",
+    "cat.2d.larc22" : "1st",
     "cat.2d.larc21" : "1st" ,
     "cat.2d.larc20": "3rd",
-    "cat.2d.larc19": "2th",
+    "cat.2d.larc19": "2nd",
     "cat.2d.larc18": "4th",
     
+    "cat.2d.iron23": "2rd",
+    "cat.2d.iron22": "3rd",
     "cat.2d.iron21": "3rd",
     "cat.2d.iron20": "6th",
     "cat.2d.iron19": "N/A",
@@ -92,17 +97,23 @@
     "cat.vss.desc2" : "In this approach we train the agents using reinforcement learning, that is we give a reward to actions good and bad for the agent, he learn maximize the reward and with this the best actions for every situation.",
     "cat.vss.r": "Results",
 
+    "cat.vss.larc23": "N/A",
+    "cat.vss.larc22": "1st",
     "cat.vss.larc21": "1st 3v3 RL<br>2nd 5v5 DET",
     "cat.vss.larc20": "4th DET <br> 5th RL",
     "cat.vss.larc19": "4th DET <br> 5th RL",
-    "cat.vss.larc18": "3th",
+    "cat.vss.larc18": "3rd",
     "cat.vss.larc17": "5th",
     "cat.vss.larc16": "16th",
     
+    "cat.vss.iron23": "2nd",
+    "cat.vss.iron22": "3rd",
     "cat.vss.iron21": "1st",
-    "cat.vss.iron20": "3th RL <br> 5th DET",
-    "cat.vss.iron19": "3th",
-    "cat.vss.iron18": "3th",
+    "cat.vss.iron20": "3rd RL <br> 5th DET",
+    "cat.vss.iron19": "3rd",
+    "cat.vss.iron18": "3rd",
+    "cat.vss.iron17": "N/A",
+    "cat.vss.iron16": "N/A",
 
     "cat.ssl" : "Small Size League",
     "cat.ssl.img1" : "Captured photo in RoboCup 2019.", 
@@ -111,12 +122,15 @@
     "cat.ssl.results.champion": "Champions!",
     "cat.ssl.r": "Results",
 
+    "cat.ssl.robocup23": "1st Div B<br>1st Ball Placement Technical Challenge<br>5th Chip Pass Challenge",
     "cat.ssl.robocup22": "1st Div B<br>1st Ball Placement Technical Challenge<br>2nd Vision Blackout<br>3rd Dribbling Challenge",
     "cat.ssl.robocup21": "3rd Div A/B<br>1st Ball Placement Technical Challenge<br>5th Hardware Challenge",
     "cat.ssl.robocup20": "Postponed",
     "cat.ssl.robocup19": "3rd/4th Div B", 
     "cat.ssl.robocup18": "N/A",
 
+    "cat.ssl.larc23": "N/A",
+    "cat.ssl.larc22": "1st",
     "cat.ssl.larc21": "1st",
     "cat.ssl.larc20": "1st",
     "cat.ssl.larc19": "5th",
@@ -159,5 +173,9 @@
 
     "talk": "Talk to us!",
 
-    "cat.Professor/Pesquisador": "Professor"
+    "cat.Professor/Pesquisador": "Professor",
+
+    "404.title": "Oops! Page Not Found.",
+    "404.description": "The page you're looking for doesn't exist.",
+    "404.button_label": "Back to Home"
 }

@@ -1,5 +1,5 @@
 # Run local server
 
 ```bash
-python -m SimpleHTTPServer
+python -m http.server
 ```
